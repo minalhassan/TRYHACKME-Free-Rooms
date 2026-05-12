@@ -1,9 +1,20 @@
-# TryHackMe Free Rooms Learning Path
+<p align="center">
+  <img src="media/hero.png" alt="TryHackMe Free Rooms Learning Path Hero" width="800">
+</p>
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Status](https://img.shields.io/badge/Status-Active-green.svg)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-brightgreen.svg)
-![Total Rooms](https://img.shields.io/badge/Total%20Rooms-500+-yellow.svg)
+<h1 align="center">TryHackMe Free Rooms Learning Path</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Md.%20Minal%20Hasan%20Raj%20Mim-blue?style=for-the-badge&logo=github" alt="Author">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Last%20Updated-May%202026-yellow?style=for-the-badge" alt="Last Updated">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Rooms-500+-orange?style=for-the-badge" alt="Total Rooms">
+  <img src="https://img.shields.io/badge/Difficulty-Beginner%20to%20Advanced-red?style=for-the-badge" alt="Difficulty Level">
+</p>
 
 ## 📚 Overview
 
@@ -25,6 +36,20 @@ A comprehensive, organized collection of **free TryHackMe rooms** with 500+ chal
 3. [Learning Paths](#-learning-paths)
 4. [Progress Tracking](#-progress-tracking)
 5. [Contributing](#-contributing)
+6. [Difficulty Key](#-difficulty-key)
+
+---
+
+## 🔑 Difficulty Key
+
+| Icon | Level | Description |
+| :---: | :--- | :--- |
+| 🟢 | **Basic** | Foundational concepts and beginner-friendly labs |
+| 🔵 | **Easy** | Entry-level CTFs and tool basics |
+| 🟡 | **Medium** | Intermediate challenges requiring multiple skills |
+| 🟠 | **Hard** | Advanced exploitation and complex scenarios |
+| 🔴 | **Insane** | Expert-level challenges for elite pentesters |
+| 🧪 | **CVE** | Specific vulnerability labs and research |
 
 ---
 
@@ -50,310 +75,310 @@ A comprehensive, organized collection of **free TryHackMe rooms** with 500+ chal
 
 | Room Name | Link |
 |-----------|------|
-| How to use TryHackMe | [Start](https://tryhackme.com/room/howtousetryhackme) |
-| Tutorial | [Start](https://tryhackme.com/room/tutorial) |
-| Learning Cyber Security | [Start](https://tryhackme.com/room/beginnerpathintro) |
-| Threat Hunting: Introduction | [Start](https://tryhackme.com/room/introductiontothreathunting) |
-| Enumeration & Brute Force | [Start](https://tryhackme.com/room/enumerationbruteforce) |
-| Intro to Logs | [Start](https://tryhackme.com/room/introtologs) |
-| Intro to Threat Emulation | [Start](https://tryhackme.com/room/threatemulationintro) |
-| Security Engineer Intro | [Start](https://tryhackme.com/room/securityengineerintro) |
-| Junior Security Analyst Intro | [Start](https://tryhackme.com/room/jrsecanalystintrouxo) |
-| Introductory Researching | [Start](https://tryhackme.com/room/introtoresearch) |
-| Careers in Cyber | [Start](https://tryhackme.com/room/careersincyber) |
-| Intro to Docker | [Start](https://tryhackme.com/room/introtodockerk8pdqk) |
-| Hosted Hypervisors | [Start](https://tryhackme.com/room/hostedhypervisors) |
-| Starting Out In Cyber Sec | [Start](https://tryhackme.com/room/startingoutincybersec) |
-| OpenVPN | [Start](https://tryhackme.com/room/openvpn) |
+| How to use TryHackMe | https://tryhackme.com/room/howtousetryhackme |
+| Tutorial | https://tryhackme.com/room/tutorial |
+| Learning Cyber Security | https://tryhackme.com/room/beginnerpathintro |
+| Threat Hunting: Introduction | https://tryhackme.com/room/introductiontothreathunting |
+| Enumeration & Brute Force | https://tryhackme.com/room/enumerationbruteforce |
+| Intro to Logs | https://tryhackme.com/room/introtologs |
+| Intro to Threat Emulation | https://tryhackme.com/room/threatemulationintro |
+| Security Engineer Intro | https://tryhackme.com/room/securityengineerintro |
+| Junior Security Analyst Intro | https://tryhackme.com/room/jrsecanalystintrouxo |
+| Introductory Researching | https://tryhackme.com/room/introtoresearch |
+| Careers in Cyber | https://tryhackme.com/room/careersincyber |
+| Intro to Docker | https://tryhackme.com/room/introtodockerk8pdqk |
+| Hosted Hypervisors | https://tryhackme.com/room/hostedhypervisors |
+| Starting Out In Cyber Sec | https://tryhackme.com/room/startingoutincybersec |
+| OpenVPN | https://tryhackme.com/room/openvpn |
 
 ### 🐧 Linux Fundamentals
 
 | Room Name | Link |
 |-----------|------|
-| Linux Fundamentals Part 1 | [Start](https://tryhackme.com/room/linuxfundamentalspart1) |
-| Linux Fundamentals Part 2 | [Start](https://tryhackme.com/room/linuxfundamentalspart2) |
-| Linux Fundamentals Part 3 | [Start](https://tryhackme.com/room/linuxfundamentalspart3) |
-| Linux Modules | [Start](https://tryhackme.com/room/linuxmodules) |
-| Linux File System Analysis | [Start](https://tryhackme.com/room/linuxfilesystemanalysis) |
-| Linux Strength Training | [Start](https://tryhackme.com/room/linuxstrengthtraining) |
+| Linux Fundamentals Part 1 | https://tryhackme.com/room/linuxfundamentalspart1 |
+| Linux Fundamentals Part 2 | https://tryhackme.com/room/linuxfundamentalspart2 |
+| Linux Fundamentals Part 3 | https://tryhackme.com/room/linuxfundamentalspart3 |
+| Linux Modules | https://tryhackme.com/room/linuxmodules |
+| Linux File System Analysis | https://tryhackme.com/room/linuxfilesystemanalysis |
+| Linux Strength Training | https://tryhackme.com/room/linuxstrengthtraining |
 
 ### 🪟 Windows Fundamentals
 
 | Room Name | Link |
 |-----------|------|
-| Welcome | [Start](https://tryhackme.com/room/hello) |
-| Windows Fundamentals 1 | [Start](https://tryhackme.com/room/windowsfundamentals1xbx) |
-| Windows Fundamentals 2 | [Start](https://tryhackme.com/room/windowsfundamentals2x0x) |
-| Windows Fundamentals 3 | [Start](https://tryhackme.com/room/windowsfundamentals3xzx) |
+| Welcome | https://tryhackme.com/room/hello |
+| Windows Fundamentals 1 | https://tryhackme.com/room/windowsfundamentals1xbx |
+| Windows Fundamentals 2 | https://tryhackme.com/room/windowsfundamentals2x0x |
+| Windows Fundamentals 3 | https://tryhackme.com/room/windowsfundamentals3xzx |
 
 ### 🎓 Core Fundamentals
 
 | Room Name | Link |
 |-----------|------|
-| Preparation | [Start](https://tryhackme.com/room/preparation) |
-| Introduction to CryptOps | [Start](https://tryhackme.com/room/introductiontocryptops) |
-| Basic Pentesting | [Start](https://tryhackme.com/room/basicpentestingjt) |
-| Pentesting Fundamentals | [Start](https://tryhackme.com/room/pentestingfundamentals) |
-| Principles of Security | [Start](https://tryhackme.com/room/principlesofsecurity) |
-| SDLC | [Start](https://tryhackme.com/room/sdlc) |
-| Regular Expressions | [Start](https://tryhackme.com/room/catregex) |
-| Splunk: Exploring SPL | [Start](https://tryhackme.com/room/splunkexploringspl) |
-| Hypervisor Internals | [Start](https://tryhackme.com/room/hypervisorinternals) |
-| ParrotPost: Phishing Analysis | [Start](https://tryhackme.com/room/parrotpost) |
-| x86 Architecture Overview | [Start](https://tryhackme.com/room/x8664arch) |
-| OpenVAS | [Start](https://tryhackme.com/room/openvas) |
-| The Hacker Methodology | [Start](https://tryhackme.com/room/hackermethodology) |
-| Physical Security Intro | [Start](https://tryhackme.com/room/physicalsecurityintro) |
-| Threat Intelligence for SOC | [Start](https://tryhackme.com/room/threatintelligenceforsoc) |
-| UltraTech: Pentesting | [Start](https://tryhackme.com/room/ultratech1) |
-| ISO27001 | [Start](https://tryhackme.com/room/iso27001) |
+| Preparation | https://tryhackme.com/room/preparation |
+| Introduction to CryptOps | https://tryhackme.com/room/introductiontocryptops |
+| Basic Pentesting | https://tryhackme.com/room/basicpentestingjt |
+| Pentesting Fundamentals | https://tryhackme.com/room/pentestingfundamentals |
+| Principles of Security | https://tryhackme.com/room/principlesofsecurity |
+| SDLC | https://tryhackme.com/room/sdlc |
+| Regular Expressions | https://tryhackme.com/room/catregex |
+| Splunk: Exploring SPL | https://tryhackme.com/room/splunkexploringspl |
+| Hypervisor Internals | https://tryhackme.com/room/hypervisorinternals |
+| ParrotPost: Phishing Analysis | https://tryhackme.com/room/parrotpost |
+| x86 Architecture Overview | https://tryhackme.com/room/x8664arch |
+| OpenVAS | https://tryhackme.com/room/openvas |
+| The Hacker Methodology | https://tryhackme.com/room/hackermethodology |
+| Physical Security Intro | https://tryhackme.com/room/physicalsecurityintro |
+| Threat Intelligence for SOC | https://tryhackme.com/room/threatintelligenceforsoc |
+| UltraTech: Pentesting | https://tryhackme.com/room/ultratech1 |
+| ISO27001 | https://tryhackme.com/room/iso27001 |
 
 ### 🔍 Reconnaissance (10 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Passive Reconnaissance | [Start](https://tryhackme.com/room/passiverecon) |
-| Active Reconnaissance | [Start](https://tryhackme.com/room/activerecon) |
-| Content Discovery | [Start](https://tryhackme.com/room/contentdiscovery) |
-| Shodan.io Tool | [Start](https://tryhackme.com/room/shodan) |
-| Google Dorking | [Start](https://tryhackme.com/room/googledorking) |
-| Sakura Room OSINT | [Start](https://tryhackme.com/room/sakura) |
-| OhSINT | [Start](https://tryhackme.com/room/ohsint) |
-| WebOSINT | [Start](https://tryhackme.com/room/webosint) |
-| Red Team Recon | [Start](https://tryhackme.com/room/redteamrecon) |
-| Searchlight - IMINT | [Start](https://tryhackme.com/room/searchlightosint) |
+| Passive Reconnaissance | https://tryhackme.com/room/passiverecon |
+| Active Reconnaissance | https://tryhackme.com/room/activerecon |
+| Content Discovery | https://tryhackme.com/room/contentdiscovery |
+| Shodan.io Tool | https://tryhackme.com/room/shodan |
+| Google Dorking | https://tryhackme.com/room/googledorking |
+| Sakura Room OSINT | https://tryhackme.com/room/sakura |
+| OhSINT | https://tryhackme.com/room/ohsint |
+| WebOSINT | https://tryhackme.com/room/webosint |
+| Red Team Recon | https://tryhackme.com/room/redteamrecon |
+| Searchlight - IMINT | https://tryhackme.com/room/searchlightosint |
 
 ### 🌐 Networking (7 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Introductory Networking | [Start](https://tryhackme.com/room/introtonetworking) |
-| What is Networking? | [Start](https://tryhackme.com/room/whatisnetworking) |
-| HTTP in Detail | [Start](https://tryhackme.com/room/httpindetail) |
-| DNS in Detail | [Start](https://tryhackme.com/room/dnsindetail) |
-| Intro to LAN | [Start](https://tryhackme.com/room/introtolan) |
-| Networking | [Start](https://tryhackme.com/room/bpnetworking) |
-| Dumping Router Firmware | [Start](https://tryhackme.com/room/rfirmware) |
+| Introductory Networking | https://tryhackme.com/room/introtonetworking |
+| What is Networking? | https://tryhackme.com/room/whatisnetworking |
+| HTTP in Detail | https://tryhackme.com/room/httpindetail |
+| DNS in Detail | https://tryhackme.com/room/dnsindetail |
+| Intro to LAN | https://tryhackme.com/room/introtolan |
+| Networking | https://tryhackme.com/room/bpnetworking |
+| Dumping Router Firmware | https://tryhackme.com/room/rfirmware |
 
 ### 🛠️ Programming & Scripting (7 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Python Basics | [Start](https://tryhackme.com/room/pythonbasics) |
-| Python Playground | [Start](https://tryhackme.com/room/pythonplayground) |
-| Intro to PoC Scripting | [Start](https://tryhackme.com/room/intropocscripting) |
-| Peak Hill | [Start](https://tryhackme.com/room/peakhill) |
-| JavaScript Basics | [Start](https://tryhackme.com/room/javascriptbasics) |
-| Bash Scripting | [Start](https://tryhackme.com/room/bashscripting) |
-| Learn Rust Programming | [Start](https://tryhackme.com/room/rust) |
+| Python Basics | https://tryhackme.com/room/pythonbasics |
+| Python Playground | https://tryhackme.com/room/pythonplayground |
+| Intro to PoC Scripting | https://tryhackme.com/room/intropocscripting |
+| Peak Hill | https://tryhackme.com/room/peakhill |
+| JavaScript Basics | https://tryhackme.com/room/javascriptbasics |
+| Bash Scripting | https://tryhackme.com/room/bashscripting |
+| Learn Rust Programming | https://tryhackme.com/room/rust |
 
 ### 🔧 Penetration Testing Tools (13 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Metasploit: Introduction | [Start](https://tryhackme.com/room/metasploitintro) |
-| Hydra | [Start](https://tryhackme.com/room/hydra) |
-| Toolbox: Vim | [Start](https://tryhackme.com/room/toolboxvim) |
-| Introduction to OWASP ZAP | [Start](https://tryhackme.com/room/learnowaspzap) |
-| Phishing: HiddenEye | [Start](https://tryhackme.com/room/phishinghiddeneye) |
-| RustScan | [Start](https://tryhackme.com/room/rustscan) |
-| Nessus | [Start](https://tryhackme.com/room/rpnessusredux) |
-| Nmap Live Host Discovery | [Start](https://tryhackme.com/room/nmap01) |
-| Nmap | [Start](https://tryhackme.com/room/furthernmap) |
-| Burp Suite: The Basics | [Start](https://tryhackme.com/room/burpsuitebasics) |
-| Burp Suite: Repeater | [Start](https://tryhackme.com/room/burpsuiterepeater) |
-| ffuf | [Start](https://tryhackme.com/room/ffuf) |
-| TShark | [Start](https://tryhackme.com/room/tshark) |
+| Metasploit: Introduction | https://tryhackme.com/room/metasploitintro |
+| Hydra | https://tryhackme.com/room/hydra |
+| Toolbox: Vim | https://tryhackme.com/room/toolboxvim |
+| Introduction to OWASP ZAP | https://tryhackme.com/room/learnowaspzap |
+| Phishing: HiddenEye | https://tryhackme.com/room/phishinghiddeneye |
+| RustScan | https://tryhackme.com/room/rustscan |
+| Nessus | https://tryhackme.com/room/rpnessusredux |
+| Nmap Live Host Discovery | https://tryhackme.com/room/nmap01 |
+| Nmap | https://tryhackme.com/room/furthernmap |
+| Burp Suite: The Basics | https://tryhackme.com/room/burpsuitebasics |
+| Burp Suite: Repeater | https://tryhackme.com/room/burpsuiterepeater |
+| ffuf | https://tryhackme.com/room/ffuf |
+| TShark | https://tryhackme.com/room/tshark |
 
 ### 🔒 Cryptography & Hashing (7 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Breaking RSA | [Start](https://tryhackme.com/room/breakrsa) |
-| Cryptography for Dummies | [Start](https://tryhackme.com/room/cryptographyfordummies) |
-| Crack the Hash | [Start](https://tryhackme.com/room/crackthehash) |
-| Crack The Hash Level 2 | [Start](https://tryhackme.com/room/crackthehashlevel2) |
-| Agent Sudo | [Start](https://tryhackme.com/room/agentsudoctf) |
-| Brute It | [Start](https://tryhackme.com/room/bruteit) |
-| Introduction to Cryptography | [Start](https://tryhackme.com/room/cryptographyintro) |
+| Breaking RSA | https://tryhackme.com/room/breakrsa |
+| Cryptography for Dummies | https://tryhackme.com/room/cryptographyfordummies |
+| Crack the Hash | https://tryhackme.com/room/crackthehash |
+| Crack The Hash Level 2 | https://tryhackme.com/room/crackthehashlevel2 |
+| Agent Sudo | https://tryhackme.com/room/agentsudoctf |
+| Brute It | https://tryhackme.com/room/bruteit |
+| Introduction to Cryptography | https://tryhackme.com/room/cryptographyintro |
 
 ### 👁️ Steganography (6 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| CC: Steganography | [Start](https://tryhackme.com/room/ccstego) |
-| Cicada-3301 Vol:1 | [Start](https://tryhackme.com/room/cicada3301vol1) |
-| Musical Stego | [Start](https://tryhackme.com/room/musicalstego) |
-| Madness | [Start](https://tryhackme.com/room/madness) |
-| Psycho Break | [Start](https://tryhackme.com/room/psychobreak) |
-| Unstable Twin | [Start](https://tryhackme.com/room/unstabletwin) |
+| CC: Steganography | https://tryhackme.com/room/ccstego |
+| Cicada-3301 Vol:1 | https://tryhackme.com/room/cicada3301vol1 |
+| Musical Stego | https://tryhackme.com/room/musicalstego |
+| Madness | https://tryhackme.com/room/madness |
+| Psycho Break | https://tryhackme.com/room/psychobreak |
+| Unstable Twin | https://tryhackme.com/room/unstabletwin |
 
 ### 💻 Web Security (45+ Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Microservices Architectures | [Start](https://tryhackme.com/room/microservicearchitectures) |
-| NoSQL Injection | [Start](https://tryhackme.com/room/nosqlinjectiontutorial) |
-| Advanced SQL Injection | [Start](https://tryhackme.com/room/advancedsqlinjection) |
-| XSS | [Start](https://tryhackme.com/room/axss) |
-| CSRF | [Start](https://tryhackme.com/room/csrfV2) |
-| File Inclusion, Path Traversal | [Start](https://tryhackme.com/room/filepathtraversal) |
-| HTTP Request Smuggling | [Start](https://tryhackme.com/room/httprequestsmuggling) |
-| HTTP/2 Request Smuggling | [Start](https://tryhackme.com/room/http2requestsmuggling) |
-| SSRF | [Start](https://tryhackme.com/room/ssrfhr) |
-| OWASP Broken Access Control | [Start](https://tryhackme.com/room/owaspbrokenaccesscontrol) |
-| HTTP Fundamentals | [Start](https://tryhackme.com/room/webfundamentals) |
-| Vulnerabilities 101 | [Start](https://tryhackme.com/room/vulnerabilities101) |
-| Walking An Application | [Start](https://tryhackme.com/room/walkinganapplication) |
-| OWASP Top 10 - 2021 | [Start](https://tryhackme.com/room/owasptop102021) |
-| OWASP Top 10 | [Start](https://tryhackme.com/room/owasptop10) |
-| OWASP Juice Shop | [Start](https://tryhackme.com/room/owaspjuiceshop) |
-| OWASP Mutillidae II | [Start](https://tryhackme.com/room/owaspmutillidae) |
-| WebGOAT | [Start](https://tryhackme.com/room/webgoat) |
-| Web Application Security | [Start](https://tryhackme.com/room/introwebapplicationsecurity) |
-| DVWA | [Start](https://tryhackme.com/room/dvwa) |
-| VulnNet | [Start](https://tryhackme.com/room/vulnnet1) |
-| Juicy Details | [Start](https://tryhackme.com/room/juicydetails) |
-| Vulnversity | [Start](https://tryhackme.com/room/vulnversity) |
-| SQL Injection Lab | [Start](https://tryhackme.com/room/sqlilab) |
-| SSTI | [Start](https://tryhackme.com/room/learnssti) |
-| SQL Injection | [Start](https://tryhackme.com/room/sqlinjectionlm) |
-| Ignite | [Start](https://tryhackme.com/room/ignite) |
-| Overpass | [Start](https://tryhackme.com/room/overpass) |
-| Year of the Rabbit | [Start](https://tryhackme.com/room/yearoftherabbit) |
-| Jack-of-All-Trades | [Start](https://tryhackme.com/room/jackofalltrades) |
-| Bolt | [Start](https://tryhackme.com/room/bolt) |
+| Microservices Architectures | https://tryhackme.com/room/microservicearchitectures |
+| NoSQL Injection | https://tryhackme.com/room/nosqlinjectiontutorial |
+| Advanced SQL Injection | https://tryhackme.com/room/advancedsqlinjection |
+| XSS | https://tryhackme.com/room/axss |
+| CSRF | https://tryhackme.com/room/csrfV2 |
+| File Inclusion, Path Traversal | https://tryhackme.com/room/filepathtraversal |
+| HTTP Request Smuggling | https://tryhackme.com/room/httprequestsmuggling |
+| HTTP/2 Request Smuggling | https://tryhackme.com/room/http2requestsmuggling |
+| SSRF | https://tryhackme.com/room/ssrfhr |
+| OWASP Broken Access Control | https://tryhackme.com/room/owaspbrokenaccesscontrol |
+| HTTP Fundamentals | https://tryhackme.com/room/webfundamentals |
+| Vulnerabilities 101 | https://tryhackme.com/room/vulnerabilities101 |
+| Walking An Application | https://tryhackme.com/room/walkinganapplication |
+| OWASP Top 10 - 2021 | https://tryhackme.com/room/owasptop102021 |
+| OWASP Top 10 | https://tryhackme.com/room/owasptop10 |
+| OWASP Juice Shop | https://tryhackme.com/room/owaspjuiceshop |
+| OWASP Mutillidae II | https://tryhackme.com/room/owaspmutillidae |
+| WebGOAT | https://tryhackme.com/room/webgoat |
+| Web Application Security | https://tryhackme.com/room/introwebapplicationsecurity |
+| DVWA | https://tryhackme.com/room/dvwa |
+| VulnNet | https://tryhackme.com/room/vulnnet1 |
+| Juicy Details | https://tryhackme.com/room/juicydetails |
+| Vulnversity | https://tryhackme.com/room/vulnversity |
+| SQL Injection Lab | https://tryhackme.com/room/sqlilab |
+| SSTI | https://tryhackme.com/room/learnssti |
+| SQL Injection | https://tryhackme.com/room/sqlinjectionlm |
+| Ignite | https://tryhackme.com/room/ignite |
+| Overpass | https://tryhackme.com/room/overpass |
+| Year of the Rabbit | https://tryhackme.com/room/yearoftherabbit |
+| Jack-of-All-Trades | https://tryhackme.com/room/jackofalltrades |
+| Bolt | https://tryhackme.com/room/bolt |
 
 ### 📱 Mobile Security
 
 | Room Name | Link |
 |-----------|------|
-| Android Hacking 101 | [Start](https://tryhackme.com/room/androidhacking101) |
+| Android Hacking 101 | https://tryhackme.com/room/androidhacking101 |
 
 ### 🕵️ Forensics & Incident Response (17 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Linux Incident Surface | [Start](https://tryhackme.com/room/linuxincidentsurface) |
-| IR Playbooks | [Start](https://tryhackme.com/room/irplaybooks) |
-| Intro to Cold System Forensics | [Start](https://tryhackme.com/room/introtocoldsystemforensics) |
-| Unified Kill Chain | [Start](https://tryhackme.com/room/unifiedkillchain) |
-| Forensic Imaging | [Start](https://tryhackme.com/room/forensicimaging) |
-| IR Philosophy and Ethics | [Start](https://tryhackme.com/room/irphilosophyethics) |
-| Windows Applications Forensics | [Start](https://tryhackme.com/room/windowsapplications) |
-| Legal Considerations in DFIR | [Start](https://tryhackme.com/room/dfirprocesslegalconsiderations) |
-| Servidae: Log Analysis in ELK | [Start](https://tryhackme.com/room/servidae) |
-| Cyber Kill Chain | [Start](https://tryhackme.com/room/cyberkillchainzmt) |
-| Identification & Scoping | [Start](https://tryhackme.com/room/identificationandscoping) |
-| Digital Forensics Case B4DM755 | [Start](https://tryhackme.com/room/caseb4dm755) |
-| Linux Server Forensics | [Start](https://tryhackme.com/room/linuxserverforensics) |
-| Forensics | [Start](https://tryhackme.com/room/forensics) |
-| Memory Forensics | [Start](https://tryhackme.com/room/memoryforensics) |
-| Volatility | [Start](https://tryhackme.com/room/bpvolatility) |
-| Disk Analysis & Autopsy | [Start](https://tryhackme.com/room/autopsy2ze0) |
+| Linux Incident Surface | https://tryhackme.com/room/linuxincidentsurface |
+| IR Playbooks | https://tryhackme.com/room/irplaybooks |
+| Intro to Cold System Forensics | https://tryhackme.com/room/introtocoldsystemforensics |
+| Unified Kill Chain | https://tryhackme.com/room/unifiedkillchain |
+| Forensic Imaging | https://tryhackme.com/room/forensicimaging |
+| IR Philosophy and Ethics | https://tryhackme.com/room/irphilosophyethics |
+| Windows Applications Forensics | https://tryhackme.com/room/windowsapplications |
+| Legal Considerations in DFIR | https://tryhackme.com/room/dfirprocesslegalconsiderations |
+| Servidae: Log Analysis in ELK | https://tryhackme.com/room/servidae |
+| Cyber Kill Chain | https://tryhackme.com/room/cyberkillchainzmt |
+| Identification & Scoping | https://tryhackme.com/room/identificationandscoping |
+| Digital Forensics Case B4DM755 | https://tryhackme.com/room/caseb4dm755 |
+| Linux Server Forensics | https://tryhackme.com/room/linuxserverforensics |
+| Forensics | https://tryhackme.com/room/forensics |
+| Memory Forensics | https://tryhackme.com/room/memoryforensics |
+| Volatility | https://tryhackme.com/room/bpvolatility |
+| Disk Analysis & Autopsy | https://tryhackme.com/room/autopsy2ze0 |
 
 ### 📡 Wi-Fi & Wireless
 
 | Room Name | Link |
 |-----------|------|
-| Wifi Hacking 101 | [Start](https://tryhackme.com/room/wifihacking101) |
+| Wifi Hacking 101 | https://tryhackme.com/room/wifihacking101 |
 
 ### 🔄 Reverse Engineering (9 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Windows x64 Assembly | [Start](https://tryhackme.com/room/win64assembly) |
-| Reversing ELF | [Start](https://tryhackme.com/room/reverselfiles) |
-| Windows Reversing Intro | [Start](https://tryhackme.com/room/windowsreversingintro) |
-| JVM Reverse Engineering | [Start](https://tryhackme.com/room/jvmreverseengineering) |
-| CC: Radare2 | [Start](https://tryhackme.com/room/ccradare2) |
-| CC: Ghidra | [Start](https://tryhackme.com/room/ccghidra) |
-| Aster | [Start](https://tryhackme.com/room/aster) |
-| Classic Passwd | [Start](https://tryhackme.com/room/classicpasswd) |
-| REloaded | [Start](https://tryhackme.com/room/reloaded) |
+| Windows x64 Assembly | https://tryhackme.com/room/win64assembly |
+| Reversing ELF | https://tryhackme.com/room/reverselfiles |
+| Windows Reversing Intro | https://tryhackme.com/room/windowsreversingintro |
+| JVM Reverse Engineering | https://tryhackme.com/room/jvmreverseengineering |
+| CC: Radare2 | https://tryhackme.com/room/ccradare2 |
+| CC: Ghidra | https://tryhackme.com/room/ccghidra |
+| Aster | https://tryhackme.com/room/aster |
+| Classic Passwd | https://tryhackme.com/room/classicpasswd |
+| REloaded | https://tryhackme.com/room/reloaded |
 
 ### 🦠 Malware Analysis (8 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Intro to Detection Engineering | [Start](https://tryhackme.com/room/introtodetectionengineering) |
-| History of Malware | [Start](https://tryhackme.com/room/historyofmalware) |
-| MAL: Malware Introductory | [Start](https://tryhackme.com/room/malmalintroductory) |
-| Basic Malware RE | [Start](https://tryhackme.com/room/basicmalwarere) |
-| MAL: Researching | [Start](https://tryhackme.com/room/malresearching) |
-| Mobile Malware Analysis | [Start](https://tryhackme.com/room/mma) |
-| Carnage | [Start](https://tryhackme.com/room/c2carnage) |
-| Dunkle Materie | [Start](https://tryhackme.com/room/dunklematerieptxc9) |
+| Intro to Detection Engineering | https://tryhackme.com/room/introtodetectionengineering |
+| History of Malware | https://tryhackme.com/room/historyofmalware |
+| MAL: Malware Introductory | https://tryhackme.com/room/malmalintroductory |
+| Basic Malware RE | https://tryhackme.com/room/basicmalwarere |
+| MAL: Researching | https://tryhackme.com/room/malresearching |
+| Mobile Malware Analysis | https://tryhackme.com/room/mma |
+| Carnage | https://tryhackme.com/room/c2carnage |
+| Dunkle Materie | https://tryhackme.com/room/dunklematerieptxc9 |
 
 ### 🔑 Privilege Escalation (12 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Linux Privilege Escalation | [Start](https://tryhackme.com/room/linprivesc) |
-| Linux PrivEsc | [Start](https://tryhackme.com/room/linuxprivesc) |
-| Linux PrivEsc Arena | [Start](https://tryhackme.com/room/linuxprivescarena) |
-| Windows PrivEsc | [Start](https://tryhackme.com/room/windows10privesc) |
-| Windows PrivEsc Arena | [Start](https://tryhackme.com/room/windowsprivescarena) |
-| Linux Agency | [Start](https://tryhackme.com/room/linuxagency) |
-| Sudo Security Bypass | [Start](https://tryhackme.com/room/sudovulnsbypass) |
-| Sudo Buffer Overflow | [Start](https://tryhackme.com/room/sudovulnsbof) |
-| Blaster | [Start](https://tryhackme.com/room/blaster) |
-| Kenobi | [Start](https://tryhackme.com/room/kenobi) |
-| c4ptur3-th3-fl4g | [Start](https://tryhackme.com/room/c4ptur3th3fl4g) |
-| Pickle Rick | [Start](https://tryhackme.com/room/picklerick) |
+| Linux Privilege Escalation | https://tryhackme.com/room/linprivesc |
+| Linux PrivEsc | https://tryhackme.com/room/linuxprivesc |
+| Linux PrivEsc Arena | https://tryhackme.com/room/linuxprivescarena |
+| Windows PrivEsc | https://tryhackme.com/room/windows10privesc |
+| Windows PrivEsc Arena | https://tryhackme.com/room/windowsprivescarena |
+| Linux Agency | https://tryhackme.com/room/linuxagency |
+| Sudo Security Bypass | https://tryhackme.com/room/sudovulnsbypass |
+| Sudo Buffer Overflow | https://tryhackme.com/room/sudovulnsbof |
+| Blaster | https://tryhackme.com/room/blaster |
+| Kenobi | https://tryhackme.com/room/kenobi |
+| c4ptur3-th3-fl4g | https://tryhackme.com/room/c4ptur3th3fl4g |
+| Pickle Rick | https://tryhackme.com/room/picklerick |
 
 ### 🪟 Windows Security (9 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Windows Incident Surface | [Start](https://tryhackme.com/room/winincidentsurface) |
-| Registry Persistence Detection | [Start](https://tryhackme.com/room/registrypersistencedetection) |
-| Investigating Windows | [Start](https://tryhackme.com/room/investigatingwindows) |
-| Investigating Windows 2.0 | [Start](https://tryhackme.com/room/investigatingwindows2) |
-| Investigating Windows 3.x | [Start](https://tryhackme.com/room/investigatingwindows3) |
-| Blueprint | [Start](https://tryhackme.com/room/blueprint) |
-| VulnNet: Active | [Start](https://tryhackme.com/room/vulnnetactive) |
-| Anthem | [Start](https://tryhackme.com/room/anthem) |
-| Blue | [Start](https://tryhackme.com/room/blue) |
+| Windows Incident Surface | https://tryhackme.com/room/winincidentsurface |
+| Registry Persistence Detection | https://tryhackme.com/room/registrypersistencedetection |
+| Investigating Windows | https://tryhackme.com/room/investigatingwindows |
+| Investigating Windows 2.0 | https://tryhackme.com/room/investigatingwindows2 |
+| Investigating Windows 3.x | https://tryhackme.com/room/investigatingwindows3 |
+| Blueprint | https://tryhackme.com/room/blueprint |
+| VulnNet: Active | https://tryhackme.com/room/vulnnetactive |
+| Anthem | https://tryhackme.com/room/anthem |
+| Blue | https://tryhackme.com/room/blue |
 
 ### 🔐 Active Directory (8 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Active Directory Hardening | [Start](https://tryhackme.com/room/activedirectoryening) |
-| Active Directory Basics | [Start](https://tryhackme.com/room/winadbasics) |
-| Breaching Active Directory | [Start](https://tryhackme.com/room/breachingad) |
-| Attacktive Directory | [Start](https://tryhackme.com/room/attacktivedirectory) |
-| Post-Exploitation Basics | [Start](https://tryhackme.com/room/postexploit) |
-| USTOUN | [Start](https://tryhackme.com/room/ustoun) |
-| Enterprise | [Start](https://tryhackme.com/room/enterprise) |
-| RazorBlack | [Start](https://tryhackme.com/room/raz0rblack) |
+| Active Directory Hardening | https://tryhackme.com/room/activedirectoryening |
+| Active Directory Basics | https://tryhackme.com/room/winadbasics |
+| Breaching Active Directory | https://tryhackme.com/room/breachingad |
+| Attacktive Directory | https://tryhackme.com/room/attacktivedirectory |
+| Post-Exploitation Basics | https://tryhackme.com/room/postexploit |
+| USTOUN | https://tryhackme.com/room/ustoun |
+| Enterprise | https://tryhackme.com/room/enterprise |
+| RazorBlack | https://tryhackme.com/room/raz0rblack |
 
 ### 📊 Packet Analysis (4 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| h4cked | [Start](https://tryhackme.com/room/h4cked) |
-| Carnage (PCAP) | [Start](https://tryhackme.com/room/c2carnage) |
-| CCT2019 | [Start](https://tryhackme.com/room/cct2019) |
-| Overpass 2 - Hacked | [Start](https://tryhackme.com/room/overpass2hacked) |
+| h4cked | https://tryhackme.com/room/h4cked |
+| Carnage (PCAP) | https://tryhackme.com/room/c2carnage |
+| CCT2019 | https://tryhackme.com/room/cct2019 |
+| Overpass 2 - Hacked | https://tryhackme.com/room/overpass2hacked |
 
 ### 🛡️ Container & Kubernetes Security (3 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| K8s Runtime Security | [Start](https://tryhackme.com/room/k8sruntimesecurity) |
-| K8s Best Security Practices | [Start](https://tryhackme.com/room/k8sbestsecuritypractices) |
-| Cluster Hardening | [Start](https://tryhackme.com/room/clusterhardening) |
+| K8s Runtime Security | https://tryhackme.com/room/k8sruntimesecurity |
+| K8s Best Security Practices | https://tryhackme.com/room/k8sbestsecuritypractices |
+| Cluster Hardening | https://tryhackme.com/room/clusterhardening |
 
 ### 💣 Buffer Overflow (4 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| Buffer Overflow Prep | [Start](https://tryhackme.com/room/bufferoverflowprep) |
-| Gatekeeper | [Start](https://tryhackme.com/room/gatekeeper) |
-| Chronicle | [Start](https://tryhackme.com/room/chronicle) |
-| Intro To Pwntools | [Start](https://tryhackme.com/room/intropwntools) |
+| Buffer Overflow Prep | https://tryhackme.com/room/bufferoverflowprep |
+| Gatekeeper | https://tryhackme.com/room/gatekeeper |
+| Chronicle | https://tryhackme.com/room/chronicle |
+| Intro To Pwntools | https://tryhackme.com/room/intropwntools |
 
 ### 🎮 Easy CTF Challenges (100+ Rooms)
 
@@ -361,29 +386,29 @@ Popular Easy CTF rooms to get started:
 
 | Room Name | Link |
 |-----------|------|
-| Offensive Security Intro | [Start](https://tryhackme.com/room/offensivesecurityintro) |
-| Defensive Security Intro | [Start](https://tryhackme.com/room/defensivesecurityintro) |
-| How Websites Work | [Start](https://tryhackme.com/room/howwebsiteswork) |
-| Become a Hacker | [Start](https://tryhackme.com/room/becomeahackeroa) |
-| RootMe | [Start](https://tryhackme.com/room/rrootme) |
-| Simple CTF | [Start](https://tryhackme.com/room/easyctf) |
-| Bounce Hacker | [Start](https://tryhackme.com/room/cowboyhacker) |
-| Fowsniff CTF | [Start](https://tryhackme.com/room/ctf) |
-| Ice | [Start](https://tryhackme.com/room/ice) |
-| Lian_Yu | [Start](https://tryhackme.com/room/lianyu) |
-| Brooklyn Nine Nine | [Start](https://tryhackme.com/room/brooklynninenine) |
-| Year of the Rabbit | [Start](https://tryhackme.com/room/yearoftherabbit) |
-| Opacity | [Start](https://tryhackme.com/room/opacity) |
-| Startup | [Start](https://tryhackme.com/room/startup) |
-| Chocolate Factory | [Start](https://tryhackme.com/room/chocolatefactory) |
-| Chill Hack | [Start](https://tryhackme.com/room/chillhack) |
-| ColddBox: Easy | [Start](https://tryhackme.com/room/colddboxeasy) |
-| All in One | [Start](https://tryhackme.com/room/allinonemj) |
-| Archangel | [Start](https://tryhackme.com/room/archangel) |
-| Atlas | [Start](https://tryhackme.com/room/atlas) |
-| VulnNet: Node | [Start](https://tryhackme.com/room/vulnnetnode) |
-| VulnNet: Internal | [Start](https://tryhackme.com/room/vulnnetinternal) |
-| Mustacchio | [Start](https://tryhackme.com/room/mustacchio) |
+| Offensive Security Intro | https://tryhackme.com/room/offensivesecurityintro |
+| Defensive Security Intro | https://tryhackme.com/room/defensivesecurityintro |
+| How Websites Work | https://tryhackme.com/room/howwebsiteswork |
+| Become a Hacker | https://tryhackme.com/room/becomeahackeroa |
+| RootMe | https://tryhackme.com/room/rrootme |
+| Simple CTF | https://tryhackme.com/room/easyctf |
+| Bounce Hacker | https://tryhackme.com/room/cowboyhacker |
+| Fowsniff CTF | https://tryhackme.com/room/ctf |
+| Ice | https://tryhackme.com/room/ice |
+| Lian_Yu | https://tryhackme.com/room/lianyu |
+| Brooklyn Nine Nine | https://tryhackme.com/room/brooklynninenine |
+| Year of the Rabbit | https://tryhackme.com/room/yearoftherabbit |
+| Opacity | https://tryhackme.com/room/opacity |
+| Startup | https://tryhackme.com/room/startup |
+| Chocolate Factory | https://tryhackme.com/room/chocolatefactory |
+| Chill Hack | https://tryhackme.com/room/chillhack |
+| ColddBox: Easy | https://tryhackme.com/room/colddboxeasy |
+| All in One | https://tryhackme.com/room/allinonemj |
+| Archangel | https://tryhackme.com/room/archangel |
+| Atlas | https://tryhackme.com/room/atlas |
+| VulnNet: Node | https://tryhackme.com/room/vulnnetnode |
+| VulnNet: Internal | https://tryhackme.com/room/vulnnetinternal |
+| Mustacchio | https://tryhackme.com/room/mustacchio |
 
 **+ 80+ More Easy CTF rooms available** - See main list for complete collection
 
@@ -393,16 +418,16 @@ Advanced CTF challenges for intermediate learners:
 
 | Room Name | Link |
 |-----------|------|
-| Mr Robot CTF | [Start](https://tryhackme.com/room/mrrobot) |
-| Nax | [Start](https://tryhackme.com/room/nax) |
-| dogcat | [Start](https://tryhackme.com/room/dogcat) |
-| Block | [Start](https://tryhackme.com/room/blockroom) |
-| Wonderland | [Start](https://tryhackme.com/room/wonderland) |
-| Biohazard | [Start](https://tryhackme.com/room/biohazard) |
-| The Marketplace | [Start](https://tryhackme.com/room/marketplace) |
-| Relevant | [Start](https://tryhackme.com/room/relevant) |
-| Looking Glass | [Start](https://tryhackme.com/room/lookingglass) |
-| Recovery | [Start](https://tryhackme.com/room/recovery) |
+| Mr Robot CTF | https://tryhackme.com/room/mrrobot |
+| Nax | https://tryhackme.com/room/nax |
+| dogcat | https://tryhackme.com/room/dogcat |
+| Block | https://tryhackme.com/room/blockroom |
+| Wonderland | https://tryhackme.com/room/wonderland |
+| Biohazard | https://tryhackme.com/room/biohazard |
+| The Marketplace | https://tryhackme.com/room/marketplace |
+| Relevant | https://tryhackme.com/room/relevant |
+| Looking Glass | https://tryhackme.com/room/lookingglass |
+| Recovery | https://tryhackme.com/room/recovery |
 
 **+ 90+ More Medium CTF rooms available** - Challenge yourself with advanced rooms
 
@@ -412,11 +437,11 @@ Elite-level challenges for experienced pentesters:
 
 | Room Name | Link |
 |-----------|------|
-| Daily Bugle | [Start](https://tryhackme.com/room/dailybugle) |
-| Internal | [Start](https://tryhackme.com/room/internal) |
-| Year of the Fox | [Start](https://tryhackme.com/room/yotf) |
-| Theseus | [Start](https://tryhackme.com/room/theseus) |
-| Squid Game | [Start](https://tryhackme.com/room/squidgameroom) |
+| Daily Bugle | https://tryhackme.com/room/dailybugle |
+| Internal | https://tryhackme.com/room/internal |
+| Year of the Fox | https://tryhackme.com/room/yotf |
+| Theseus | https://tryhackme.com/room/theseus |
+| Squid Game | https://tryhackme.com/room/squidgameroom |
 
 **+ 45+ More Hard CTF rooms** - Master-level penetration testing
 
@@ -424,71 +449,71 @@ Elite-level challenges for experienced pentesters:
 
 | Room Name | Link |
 |-----------|------|
-| Frosteau Busy with Vim | [Start](https://tryhackme.com/room/busyvimfrosteau) |
+| Frosteau Busy with Vim | https://tryhackme.com/room/busyvimfrosteau |
 
 ### 🔧 Miscellaneous & CVE Rooms (50+ Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| PaperCut: CVE-2023-27350 | [Start](https://tryhackme.com/room/papercut) |
-| Moniker Link (CVE-2024-21413) | [Start](https://tryhackme.com/room/monikerlink) |
-| Confluence CVE-2023-22515 | [Start](https://tryhackme.com/room/confluence202322515) |
-| GitLab CVE-2023-7028 | [Start](https://tryhackme.com/room/gitlabcve20237028) |
-| CVE-2023-38408 | [Start](https://tryhackme.com/room/cve202338408) |
-| Cactus | [Start](https://tryhackme.com/room/cactus) |
-| Looney Tunables | [Start](https://tryhackme.com/room/looneytunes) |
-| Threat Intel & Containment | [Start](https://tryhackme.com/room/intelcreationandcontainment) |
-| Introduction to Django | [Start](https://tryhackme.com/room/django) |
-| Git Happens | [Start](https://tryhackme.com/room/githappens) |
-| Meltdown Explained | [Start](https://tryhackme.com/room/meltdownexplained) |
-| Splunk | [Start](https://tryhackme.com/room/bpsplunk) |
-| Linux Backdoors | [Start](https://tryhackme.com/room/linuxbackdoors) |
-| Jupyter 101 | [Start](https://tryhackme.com/room/jupyter101) |
-| Geolocating Images | [Start](https://tryhackme.com/room/geolocatingimages) |
-| Tor | [Start](https://tryhackme.com/room/torforbeginners) |
-| tomghost | [Start](https://tryhackme.com/room/tomghost) |
-| DLL HIJACKING | [Start](https://tryhackme.com/room/dllhijacking) |
-| Intro to IoT Pentesting | [Start](https://tryhackme.com/room/iotintro) |
-| Attacking ICS Plant #1 | [Start](https://tryhackme.com/room/attackingics1) |
-| Attacking ICS Plant #2 | [Start](https://tryhackme.com/room/attackingics2) |
-| Printer Hacking 101 | [Start](https://tryhackme.com/room/printerhacking101) |
-| DNS Manipulation | [Start](https://tryhackme.com/room/dnsmanipulation) |
-| Introduction to Flask | [Start](https://tryhackme.com/room/flask) |
-| MITRE | [Start](https://tryhackme.com/room/mitre) |
-| Baron Samedit | [Start](https://tryhackme.com/room/sudovulnssamedit) |
-| CVE-2021-41773/42013 | [Start](https://tryhackme.com/room/cve202141773) |
-| Git and Crumpets | [Start](https://tryhackme.com/room/gitandcrumpets) |
-| Polkit: CVE-2021-3560 | [Start](https://tryhackme.com/room/polkit) |
-| Bypass Disable Functions | [Start](https://tryhackme.com/room/bypassdisablefunctions) |
-| Wordpress: CVE-2021-29447 | [Start](https://tryhackme.com/room/wordpresscve202129447) |
-| Linux Function Hooking | [Start](https://tryhackme.com/room/linuxfunctionhooking) |
-| REvil Corp | [Start](https://tryhackme.com/room/revilcorp) |
-| Solar, exploiting log4j | [Start](https://tryhackme.com/room/solar) |
-| Conti | [Start](https://tryhackme.com/room/contiransomwarehgh) |
-| Dirty Pipe: CVE-2022-0847 | [Start](https://tryhackme.com/room/dirtypipe) |
-| The find command | [Start](https://tryhackme.com/room/thefindcommand) |
-| Snyk Open Source | [Start](https://tryhackme.com/room/snykopensource) |
-| Snyk Code | [Start](https://tryhackme.com/room/snykcode) |
-| Intro to IaC | [Start](https://tryhackme.com/room/introtoiac) |
-| tmux | [Start](https://tryhackme.com/room/rptmux) |
-| REmux The Tmux | [Start](https://tryhackme.com/room/tmuxremux) |
+| PaperCut: CVE-2023-27350 | https://tryhackme.com/room/papercut |
+| Moniker Link (CVE-2024-21413) | https://tryhackme.com/room/monikerlink |
+| Confluence CVE-2023-22515 | https://tryhackme.com/room/confluence202322515 |
+| GitLab CVE-2023-7028 | https://tryhackme.com/room/gitlabcve20237028 |
+| CVE-2023-38408 | https://tryhackme.com/room/cve202338408 |
+| Cactus | https://tryhackme.com/room/cactus |
+| Looney Tunables | https://tryhackme.com/room/looneytunes |
+| Threat Intel & Containment | https://tryhackme.com/room/intelcreationandcontainment |
+| Introduction to Django | https://tryhackme.com/room/django |
+| Git Happens | https://tryhackme.com/room/githappens |
+| Meltdown Explained | https://tryhackme.com/room/meltdownexplained |
+| Splunk | https://tryhackme.com/room/bpsplunk |
+| Linux Backdoors | https://tryhackme.com/room/linuxbackdoors |
+| Jupyter 101 | https://tryhackme.com/room/jupyter101 |
+| Geolocating Images | https://tryhackme.com/room/geolocatingimages |
+| Tor | https://tryhackme.com/room/torforbeginners |
+| tomghost | https://tryhackme.com/room/tomghost |
+| DLL HIJACKING | https://tryhackme.com/room/dllhijacking |
+| Intro to IoT Pentesting | https://tryhackme.com/room/iotintro |
+| Attacking ICS Plant #1 | https://tryhackme.com/room/attackingics1 |
+| Attacking ICS Plant #2 | https://tryhackme.com/room/attackingics2 |
+| Printer Hacking 101 | https://tryhackme.com/room/printerhacking101 |
+| DNS Manipulation | https://tryhackme.com/room/dnsmanipulation |
+| Introduction to Flask | https://tryhackme.com/room/flask |
+| MITRE | https://tryhackme.com/room/mitre |
+| Baron Samedit | https://tryhackme.com/room/sudovulnssamedit |
+| CVE-2021-41773/42013 | https://tryhackme.com/room/cve202141773 |
+| Git and Crumpets | https://tryhackme.com/room/gitandcrumpets |
+| Polkit: CVE-2021-3560 | https://tryhackme.com/room/polkit |
+| Bypass Disable Functions | https://tryhackme.com/room/bypassdisablefunctions |
+| Wordpress: CVE-2021-29447 | https://tryhackme.com/room/wordpresscve202129447 |
+| Linux Function Hooking | https://tryhackme.com/room/linuxfunctionhooking |
+| REvil Corp | https://tryhackme.com/room/revilcorp |
+| Solar, exploiting log4j | https://tryhackme.com/room/solar |
+| Conti | https://tryhackme.com/room/contiransomwarehgh |
+| Dirty Pipe: CVE-2022-0847 | https://tryhackme.com/room/dirtypipe |
+| The find command | https://tryhackme.com/room/thefindcommand |
+| Snyk Open Source | https://tryhackme.com/room/snykopensource |
+| Snyk Code | https://tryhackme.com/room/snykcode |
+| Intro to IaC | https://tryhackme.com/room/introtoiac |
+| tmux | https://tryhackme.com/room/rptmux |
+| REmux The Tmux | https://tryhackme.com/room/tmuxremux |
 
 ### 🎄 Special Events & Seasonal (12 Rooms)
 
 | Room Name | Link |
 |-----------|------|
-| 25 Days of Cyber Security | [Start](https://tryhackme.com/room/learncyberin25days) |
-| Advent of Cyber 1 [2019] | [Start](https://tryhackme.com/room/25daysofchristmas) |
-| Advent of Cyber 2 [2020] | [Start](https://tryhackme.com/room/adventofcyber2) |
-| Advent of Cyber 3 (2021) | [Start](https://tryhackme.com/room/adventofcyber3) |
-| Advent of Cyber 2022 | [Start](https://tryhackme.com/room/adventofcyber4) |
-| Advent of Cyber 2023 | [Start](https://tryhackme.com/room/adventofcyber2023) |
-| Advent of Cyber 2024 | [Start](https://tryhackme.com/room/adventofcyber2024) |
-| Advent of Cyber '23 Side Quest | [Start](https://tryhackme.com/room/adventofcyber23sidequest) |
-| Cyber Scotland 2021 | [Start](https://tryhackme.com/room/cyberweek2021) |
-| Hacker of the Hill #1 | [Start](https://tryhackme.com/room/hackerofthehill) |
-| Learn and win prizes | [Start](https://tryhackme.com/room/tickets1) |
-| Learn and win prizes #2 | [Start](https://tryhackme.com/room/tickets2) |
+| 25 Days of Cyber Security | https://tryhackme.com/room/learncyberin25days |
+| Advent of Cyber 1 [2019] | https://tryhackme.com/room/25daysofchristmas |
+| Advent of Cyber 2 [2020] | https://tryhackme.com/room/adventofcyber2 |
+| Advent of Cyber 3 (2021) | https://tryhackme.com/room/adventofcyber3 |
+| Advent of Cyber 2022 | https://tryhackme.com/room/adventofcyber4 |
+| Advent of Cyber 2023 | https://tryhackme.com/room/adventofcyber2023 |
+| Advent of Cyber 2024 | https://tryhackme.com/room/adventofcyber2024 |
+| Advent of Cyber '23 Side Quest | https://tryhackme.com/room/adventofcyber23sidequest |
+| Cyber Scotland 2021 | https://tryhackme.com/room/cyberweek2021 |
+| Hacker of the Hill #1 | https://tryhackme.com/room/hackerofthehill |
+| Learn and win prizes | https://tryhackme.com/room/tickets1 |
+| Learn and win prizes #2 | https://tryhackme.com/room/tickets2 |
 
 ---
 
@@ -614,18 +639,27 @@ Help us improve this resource!
 
 ---
 
-## 📞 Support & Resources
+## 📧 Support & Resources
 
-- TryHackMe: https://tryhackme.com
-- OWASP: https://owasp.org
-- HackTheBox: https://hackthebox.com
-- Community Forum: [TryHackMe Discourse](https://discourse.tryhackme.com)
+- **TryHackMe**: [https://tryhackme.com](https://tryhackme.com)
+- **OWASP**: [https://owasp.org](https://owasp.org)
+- **HackTheBox**: [https://hackthebox.com](https://hackthebox.com)
+- **Community Forum**: [TryHackMe Discourse](https://discourse.tryhackme.com)
+
+---
+
+## 👨‍💻 Author
+
+**Md. Minal Hasan Raj Mim**
+- 📧 **Email**: [minalhasan2@gmail.com](mailto:minalhasan2@gmail.com)
+- 🌐 **LinkedIn**: [Your Profile URL]
+- 🐙 **GitHub**: [@mim-github](https://github.com/mim-github)
 
 ---
 
 ## 📝 License
 
-MIT License - See LICENSE file
+MIT License - See [LICENSE](LICENSE) file
 
 ---
 
