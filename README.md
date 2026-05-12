@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="media/hero.png" alt="TryHackMe Free Rooms Learning Path Hero" width="800">
-</p>
+
 
 <h1 align="center">TryHackMe Free Rooms Learning Path</h1>
 
